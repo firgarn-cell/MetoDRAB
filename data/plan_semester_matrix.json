@@ -1,0 +1,977 @@
+{
+  "source": "УчебныйПлан/ИС 25-11 (первый курс) (программист).xls",
+  "header": {
+    "semesters": {
+      "1": "17 нед",
+      "2": "18 (6) нед",
+      "3": "12 (5) нед",
+      "4": "15 (7) нед",
+      "5": "12 (4) нед",
+      "6": "10 (6) нед"
+    },
+    "note": "На пересечении строки дисциплины и столбца семестра: для МДК — Лекции и Пр.занятия; для практик — часы и недели."
+  },
+  "items": [
+    {
+      "row": 40,
+      "index": "ПМ.01",
+      "name": "Разработка модулей программного обеспечения для компьютерных систем",
+      "total": {
+        "max": 898,
+        "self": 24,
+        "ob": 586,
+        "lec": 268,
+        "pr": 298,
+        "kurs": 20,
+        "att": 36
+      },
+      "by_semester": {
+        "2": {
+          "max": 36,
+          "self": 2,
+          "ob": 34,
+          "lec": 16,
+          "pr": 18,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "3": {
+          "max": 228,
+          "self": 6,
+          "ob": 114,
+          "lec": 54,
+          "pr": 60,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "4": {
+          "max": 310,
+          "self": 8,
+          "ob": 230,
+          "lec": 108,
+          "pr": 122,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "5": {
+          "max": 324,
+          "self": 8,
+          "ob": 208,
+          "lec": 90,
+          "pr": 98,
+          "kurs": 20,
+          "att": 36,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 41,
+      "index": "МДК.01.01",
+      "name": "Разработка программных модулей",
+      "total": {
+        "max": 236,
+        "self": 8,
+        "ob": 216,
+        "lec": 94,
+        "pr": 102,
+        "kurs": 20,
+        "att": 12
+      },
+      "by_semester": {
+        "2": {
+          "max": 36,
+          "self": 2,
+          "ob": 34,
+          "lec": 16,
+          "pr": 18,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "3": {
+          "max": 48,
+          "self": 2,
+          "ob": 46,
+          "lec": 22,
+          "pr": 24,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "4": {
+          "max": 60,
+          "self": 2,
+          "ob": 58,
+          "lec": 28,
+          "pr": 30,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "5": {
+          "max": 92,
+          "self": 2,
+          "ob": 78,
+          "lec": 28,
+          "pr": 30,
+          "kurs": 20,
+          "att": 12,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 42,
+      "index": "МДК.01.02",
+      "name": "Поддержка и тестирование программных модулей",
+      "total": {
+        "max": 110,
+        "self": 6,
+        "ob": 104,
+        "lec": 48,
+        "pr": 56,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "3": {
+          "max": 24,
+          "self": 2,
+          "ob": 22,
+          "lec": 10,
+          "pr": 12,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "4": {
+          "max": 62,
+          "self": 2,
+          "ob": 60,
+          "lec": 28,
+          "pr": 32,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "5": {
+          "max": 24,
+          "self": 2,
+          "ob": 22,
+          "lec": 10,
+          "pr": 12,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 43,
+      "index": "МДК.01.03",
+      "name": "Разработка мобильных приложений",
+      "total": {
+        "max": 140,
+        "self": 4,
+        "ob": 124,
+        "lec": 60,
+        "pr": 64,
+        "kurs": null,
+        "att": 12
+      },
+      "by_semester": {
+        "4": {
+          "max": 60,
+          "self": 2,
+          "ob": 58,
+          "lec": 28,
+          "pr": 30,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "5": {
+          "max": 80,
+          "self": 2,
+          "ob": 66,
+          "lec": 32,
+          "pr": 34,
+          "kurs": null,
+          "att": 12,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 44,
+      "index": "МДК.01.04",
+      "name": "Системное программирование",
+      "total": {
+        "max": 148,
+        "self": 6,
+        "ob": 142,
+        "lec": 66,
+        "pr": 76,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "3": {
+          "max": 48,
+          "self": 2,
+          "ob": 46,
+          "lec": 22,
+          "pr": 24,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "4": {
+          "max": 56,
+          "self": 2,
+          "ob": 54,
+          "lec": 24,
+          "pr": 30,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "5": {
+          "max": 44,
+          "self": 2,
+          "ob": 42,
+          "lec": 20,
+          "pr": 22,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 45,
+      "index": "УП.01.01",
+      "name": "Учебная практика",
+      "total": {
+        "max": 108,
+        "self": null,
+        "ob": 108,
+        "lec": null,
+        "pr": 3,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "3": {
+          "hours": 72,
+          "weeks": 2,
+          "kind": "practice"
+        },
+        "4": {
+          "hours": 36,
+          "weeks": 1,
+          "kind": "practice"
+        }
+      }
+    },
+    {
+      "row": 46,
+      "index": "ПП.01.01",
+      "name": "Производственная практика",
+      "total": {
+        "max": 144,
+        "self": null,
+        "ob": 144,
+        "lec": null,
+        "pr": 4,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "3": {
+          "hours": 36,
+          "weeks": 1,
+          "kind": "practice"
+        },
+        "4": {
+          "hours": 36,
+          "weeks": 1,
+          "kind": "practice"
+        },
+        "5": {
+          "hours": 72,
+          "weeks": 2,
+          "kind": "practice"
+        }
+      }
+    },
+    {
+      "row": 47,
+      "index": "ПM.01.ЭК",
+      "name": "Экзамен по модулю",
+      "total": {
+        "max": 12,
+        "self": null,
+        "ob": null,
+        "lec": null,
+        "pr": null,
+        "kurs": null,
+        "att": 12
+      },
+      "by_semester": {
+        "5": {
+          "max": 12,
+          "self": null,
+          "ob": null,
+          "lec": 0,
+          "pr": 0,
+          "kurs": null,
+          "att": 12,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 49,
+      "index": "ПМ.02",
+      "name": "Осуществление интеграции программных модулей",
+      "total": {
+        "max": 604,
+        "self": 18,
+        "ob": 346,
+        "lec": 152,
+        "pr": 174,
+        "kurs": 20,
+        "att": 60
+      },
+      "by_semester": {
+        "4": {
+          "max": 68,
+          "self": 4,
+          "ob": 28,
+          "lec": 10,
+          "pr": 18,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "5": {
+          "max": 120,
+          "self": 4,
+          "ob": 44,
+          "lec": 18,
+          "pr": 26,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "6": {
+          "max": 416,
+          "self": 10,
+          "ob": 274,
+          "lec": 124,
+          "pr": 130,
+          "kurs": 20,
+          "att": 60,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 50,
+      "index": "МДК.02.01",
+      "name": "Технология разработки программного обеспечения",
+      "total": {
+        "max": 134,
+        "self": 8,
+        "ob": 114,
+        "lec": 34,
+        "pr": 60,
+        "kurs": 20,
+        "att": 12
+      },
+      "by_semester": {
+        "4": {
+          "max": 32,
+          "self": 4,
+          "ob": 28,
+          "lec": 10,
+          "pr": 18,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "5": {
+          "max": 24,
+          "self": 2,
+          "ob": 22,
+          "lec": 8,
+          "pr": 14,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "6": {
+          "max": 78,
+          "self": 2,
+          "ob": 64,
+          "lec": 16,
+          "pr": 28,
+          "kurs": 20,
+          "att": 12,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 51,
+      "index": "МДК.02.02",
+      "name": "Инструментальные средства разработки программного обеспечения",
+      "total": {
+        "max": 140,
+        "self": 6,
+        "ob": 116,
+        "lec": 52,
+        "pr": 64,
+        "kurs": null,
+        "att": 18
+      },
+      "by_semester": {
+        "5": {
+          "max": 24,
+          "self": 2,
+          "ob": 22,
+          "lec": 10,
+          "pr": 12,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "6": {
+          "max": 116,
+          "self": 4,
+          "ob": 94,
+          "lec": 42,
+          "pr": 52,
+          "kurs": null,
+          "att": 18,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 52,
+      "index": "МДК.02.03",
+      "name": "Математическое моделирование",
+      "total": {
+        "max": 138,
+        "self": 4,
+        "ob": 116,
+        "lec": 66,
+        "pr": 50,
+        "kurs": null,
+        "att": 18
+      },
+      "by_semester": {
+        "6": {
+          "max": 138,
+          "self": 4,
+          "ob": 116,
+          "lec": 66,
+          "pr": 50,
+          "kurs": null,
+          "att": 18,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 53,
+      "index": "УП.02.01",
+      "name": "Учебная практика",
+      "total": {
+        "max": 72,
+        "self": null,
+        "ob": 72,
+        "lec": null,
+        "pr": 2,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "5": {
+          "hours": 72,
+          "weeks": 2,
+          "kind": "practice"
+        }
+      }
+    },
+    {
+      "row": 54,
+      "index": "ПП.02.01",
+      "name": "Производственная практика",
+      "total": {
+        "max": 108,
+        "self": null,
+        "ob": 108,
+        "lec": null,
+        "pr": 3,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "4": {
+          "hours": 36,
+          "weeks": 1,
+          "kind": "practice"
+        },
+        "6": {
+          "hours": 72,
+          "weeks": 2,
+          "kind": "practice"
+        }
+      }
+    },
+    {
+      "row": 55,
+      "index": "ПM.02.ЭК",
+      "name": "Экзамен по модулю",
+      "total": {
+        "max": 12,
+        "self": null,
+        "ob": null,
+        "lec": null,
+        "pr": null,
+        "kurs": null,
+        "att": 12
+      },
+      "by_semester": {
+        "6": {
+          "max": 12,
+          "self": null,
+          "ob": null,
+          "lec": 0,
+          "pr": 0,
+          "kurs": null,
+          "att": 12,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 57,
+      "index": "ПМ.04",
+      "name": "Сопровождение и обслуживание программного обеспечения компьютерных систем",
+      "total": {
+        "max": 539,
+        "self": 17,
+        "ob": 294,
+        "lec": 142,
+        "pr": 152,
+        "kurs": null,
+        "att": 12
+      },
+      "by_semester": {
+        "1": {
+          "max": 85,
+          "self": 5,
+          "ob": 80,
+          "lec": 32,
+          "pr": 48,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "2": {
+          "max": 258,
+          "self": 4,
+          "ob": 110,
+          "lec": 62,
+          "pr": 48,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "3": {
+          "max": 108,
+          "self": 4,
+          "ob": 68,
+          "lec": 32,
+          "pr": 36,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "4": {
+          "max": 88,
+          "self": 4,
+          "ob": 36,
+          "lec": 16,
+          "pr": 20,
+          "kurs": null,
+          "att": 12,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 58,
+      "index": "МДК.04.01",
+      "name": "Внедрение и поддержка компьютерных систем",
+      "total": {
+        "max": 148,
+        "self": 8,
+        "ob": 140,
+        "lec": 76,
+        "pr": 64,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "1": {
+          "max": 34,
+          "self": 2,
+          "ob": 32,
+          "lec": 16,
+          "pr": 16,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "2": {
+          "max": 54,
+          "self": 2,
+          "ob": 52,
+          "lec": 34,
+          "pr": 18,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "3": {
+          "max": 48,
+          "self": 2,
+          "ob": 46,
+          "lec": 22,
+          "pr": 24,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "4": {
+          "max": 12,
+          "self": 2,
+          "ob": 10,
+          "lec": 4,
+          "pr": 6,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 59,
+      "index": "МДК.04.02",
+      "name": "Обеспечение качества функционирования компьютерных систем",
+      "total": {
+        "max": 163,
+        "self": 9,
+        "ob": 154,
+        "lec": 66,
+        "pr": 88,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "1": {
+          "max": 51,
+          "self": 3,
+          "ob": 48,
+          "lec": 16,
+          "pr": 32,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "2": {
+          "max": 60,
+          "self": 2,
+          "ob": 58,
+          "lec": 28,
+          "pr": 30,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "3": {
+          "max": 24,
+          "self": 2,
+          "ob": 22,
+          "lec": 10,
+          "pr": 12,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "4": {
+          "max": 28,
+          "self": 2,
+          "ob": 26,
+          "lec": 12,
+          "pr": 14,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 60,
+      "index": "УП.04.01",
+      "name": "Учебная практика",
+      "total": {
+        "max": 108,
+        "self": null,
+        "ob": 108,
+        "lec": null,
+        "pr": 3,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "2": {
+          "hours": 108,
+          "weeks": 3,
+          "kind": "practice"
+        }
+      }
+    },
+    {
+      "row": 61,
+      "index": "ПП.04.01",
+      "name": "Производственная практика",
+      "total": {
+        "max": 108,
+        "self": null,
+        "ob": 108,
+        "lec": null,
+        "pr": 3,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "2": {
+          "hours": 36,
+          "weeks": 1,
+          "kind": "practice"
+        },
+        "3": {
+          "hours": 36,
+          "weeks": 1,
+          "kind": "practice"
+        },
+        "4": {
+          "hours": 36,
+          "weeks": 1,
+          "kind": "practice"
+        }
+      }
+    },
+    {
+      "row": 62,
+      "index": "ПM.04.ЭК",
+      "name": "Экзамен по модулю",
+      "total": {
+        "max": 12,
+        "self": null,
+        "ob": null,
+        "lec": null,
+        "pr": null,
+        "kurs": null,
+        "att": 12
+      },
+      "by_semester": {
+        "4": {
+          "max": 12,
+          "self": null,
+          "ob": null,
+          "lec": 0,
+          "pr": 0,
+          "kurs": null,
+          "att": 12,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 64,
+      "index": "ПМ.11",
+      "name": "Разработка, администрирование и защита баз данных",
+      "total": {
+        "max": 558,
+        "self": 6,
+        "ob": 306,
+        "lec": 144,
+        "pr": 142,
+        "kurs": 20,
+        "att": 30
+      },
+      "by_semester": {
+        "2": {
+          "max": 260,
+          "self": 2,
+          "ob": 186,
+          "lec": 74,
+          "pr": 112,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "3": {
+          "max": 80,
+          "self": 2,
+          "ob": 42,
+          "lec": 30,
+          "pr": 12,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "4": {
+          "max": 218,
+          "self": 2,
+          "ob": 78,
+          "lec": 40,
+          "pr": 18,
+          "kurs": 20,
+          "att": 30,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 65,
+      "index": "МДК.11.01",
+      "name": "Технология разработки и защиты баз данных",
+      "total": {
+        "max": 330,
+        "self": 6,
+        "ob": 306,
+        "lec": 144,
+        "pr": 142,
+        "kurs": 20,
+        "att": 18
+      },
+      "by_semester": {
+        "2": {
+          "max": 188,
+          "self": 2,
+          "ob": 186,
+          "lec": 74,
+          "pr": 112,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "3": {
+          "max": 44,
+          "self": 2,
+          "ob": 42,
+          "lec": 30,
+          "pr": 12,
+          "kurs": null,
+          "att": null,
+          "kind": "mdk"
+        },
+        "4": {
+          "max": 98,
+          "self": 2,
+          "ob": 78,
+          "lec": 40,
+          "pr": 18,
+          "kurs": 20,
+          "att": 18,
+          "kind": "mdk"
+        }
+      }
+    },
+    {
+      "row": 66,
+      "index": "УП.11.01",
+      "name": "Учебная практика",
+      "total": {
+        "max": 108,
+        "self": null,
+        "ob": 108,
+        "lec": null,
+        "pr": 3,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "2": {
+          "hours": 72,
+          "weeks": 2,
+          "kind": "practice"
+        },
+        "3": {
+          "hours": 36,
+          "weeks": 1,
+          "kind": "practice"
+        }
+      }
+    },
+    {
+      "row": 67,
+      "index": "ПП.11.01",
+      "name": "Производственная практика",
+      "total": {
+        "max": 108,
+        "self": null,
+        "ob": 108,
+        "lec": null,
+        "pr": 3,
+        "kurs": null,
+        "att": null
+      },
+      "by_semester": {
+        "4": {
+          "hours": 108,
+          "weeks": 3,
+          "kind": "practice"
+        }
+      }
+    },
+    {
+      "row": 68,
+      "index": "ПM.11.ЭК",
+      "name": "Экзамен по модулю",
+      "total": {
+        "max": 12,
+        "self": null,
+        "ob": null,
+        "lec": null,
+        "pr": null,
+        "kurs": null,
+        "att": 12
+      },
+      "by_semester": {
+        "4": {
+          "max": 12,
+          "self": null,
+          "ob": null,
+          "lec": 0,
+          "pr": 0,
+          "kurs": null,
+          "att": 12,
+          "kind": "mdk"
+        }
+      }
+    }
+  ]
+}
